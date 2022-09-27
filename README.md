@@ -3,4 +3,4 @@
 
 
 ## Build Secure PHP REST API in Laravel 9 with Passport Authentication
-http://acharyaarjun.com.np/blogs/laravel/build-secure-php-rest-api-in-laravel-9-with-passport-authentication
+https://acharyaarjun.com.np/blogs/laravel/build-secure-php-rest-api-in-laravel-9-with-passport-authentication
